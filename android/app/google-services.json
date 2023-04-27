@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "707949663241",
+    "project_id": "islamicbooks-d7183",
+    "storage_bucket": "islamicbooks-d7183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707949663241:android:2cfbfeadfd7f86d8d2d4d8",
+        "android_client_info": {
+          "package_name": "com.example.islamic_book_reading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707949663241-468oiqs06tkh56lf5d9ku5sas2cifuii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRYy668M3bWvo0Yq2MFPBvQiIDWBevYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707949663241-468oiqs06tkh56lf5d9ku5sas2cifuii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707949663241:android:76148d161fb34339d2d4d8",
+        "android_client_info": {
+          "package_name": "com.example.islamicbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707949663241-468oiqs06tkh56lf5d9ku5sas2cifuii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRYy668M3bWvo0Yq2MFPBvQiIDWBevYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707949663241-468oiqs06tkh56lf5d9ku5sas2cifuii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
